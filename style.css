@@ -1,0 +1,91 @@
+body {
+    font-size: 15pt;
+}
+* {
+  background-color: lightcyan;
+  
+}
+.navigation {
+  border-style: solid;
+  border: 5px 10px;
+  margin-right: 350px;
+  border-color: green;
+  padding: 7px;
+  border-radius: 10px;
+  text-align: left;
+}
+#nav {
+  background-color: green;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.image {
+  border-radius: 8px;
+}
+img {
+  border-radius: 8px;
+  position: relative;
+  left: 40px;
+  
+  margin: 0 auto;
+  
+}
+video {
+  border-radius: 10px;
+  margin-right: 50px;
+}
+table, th, td {
+  border: 2px solid black;
+  color: rebeccapurple;
+  background-color: lightgoldenrodyellow;
+}
+hr {
+  color: black;
+}
+#Josh {
+  display: block;
+  position: absolute;
+  top: 2000px;
+  left: 500px;
+  
+}
+#marg {
+  opacity: 0.5;
+}
+.can {
+  position: relative;
+  width: 300px;
+  height: 250px;
+  top: 0px;
+}
+#overflow {
+  overflow: auto;
+  border: 1px solid black;
+  border-radius: 20px;
+  height: 500px;
+  width: 800px;
+  position: relative;
+  bottom: 500px;
+}
+marquee {
+  overflow-y: auto;
+}
+.cann, .cannn, .cannnn {
+  width: 300px;
+  height:250px;
+}
+.cann {
+  position: auto;
+  left: 350px;
+  bottom: 255px;
+}
+.cannn {
+  position: auto;
+  bottom: 250px;
+  left: 2px;
+}
+.cannnn {
+  position: auto;
+  left: 350px;
+  bottom: 503px;
+}
